@@ -20,6 +20,10 @@ KoalaDB/
 ---
 
 ## 🚀 Getting Started – Step by Step
+### Install requirements
+```bash
+pip install -r requirements_koala.txt
+```
 
 ### Step 1. Initialize the Database
 
