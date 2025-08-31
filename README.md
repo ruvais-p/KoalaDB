@@ -1,3 +1,4 @@
+![KoalaDB](https://github.com/ruvais-p/KoalaDB/blob/main/ChatGPT%20Image%20Aug%2031%2C%202025%2C%2011_51_50%20AM.png)
 # KoalaDB – A Beginner-Friendly Lightweight Database
 
 KoalaDB is a **simple, file-based database** designed for beginners who want to understand how databases work without needing advanced tools like SQL or MongoDB.
